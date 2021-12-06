@@ -1,6 +1,3 @@
-# Imersão Gateway
-Payment Gateway fake made with Golang to learning about microservices
-
 # Gateway Microservice
 
 Gateway is a microservice for dealing with payment gateway.

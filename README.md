@@ -4,7 +4,7 @@ Gateway is a microservice for dealing with payment gateway.
 
 ## Installation
 
-Use docker [docker](https://www.docker.com/) to install docker.
+Use [docker](https://www.docker.com/) to run.
 
 ```bash
 docker compose up
